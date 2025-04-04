@@ -5,5 +5,7 @@
 - <b>Initializing Active Directory</b>
   - [Active Directory Installation](https://github.com/MarioJrodas/Initializing-Active-Directory/blob/main/README.md)
 - Wire Shark   
-    - [Wire Shark Installation](https://github.com/MarioJrodas/Wire-Shark-Install)
-    - 
+    - [Wire Shark Installation](https://github.com/MarioJrodas/Wire-Shark-Install)     
+ - <b>osTicket (Help Desk Ticketing System)</b>
+    - [osTicket: Prerequisites and Installation](https://github.com/AustinmJoseph/ostiket-prereqs)
+    - [osTicket: Post-Installation Configuration](https://github.com/AustinmJoseph/post-install-config)
