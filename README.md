@@ -9,3 +9,5 @@
  - <b>osTicket (Help Desk Ticketing System)</b>
     - [osTicket: Prerequisites and Installation](https://github.com/AustinmJoseph/ostiket-prereqs)
     - [osTicket: Post-Installation Configuration](https://github.com/AustinmJoseph/post-install-config)
+- Changing User and Groups
+     - [Changing user and groups](https://github.com/MarioJrodas/Changing-user-groups-and-permissons)
