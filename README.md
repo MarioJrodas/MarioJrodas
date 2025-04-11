@@ -8,6 +8,6 @@
     - [Wire Shark Installation](https://github.com/MarioJrodas/Wire-Shark-Install)     
  - <b>osTicket (Help Desk Ticketing System)</b>
     - [osTicket: Prerequisites and Installation](https://github.com/AustinmJoseph/ostiket-prereqs)
-    - [osTicket: Post-Installation Configuration](https://github.com/AustinmJoseph/post-install-config)
+    - [osTicket: Post-Installation Configuration](https://github.com/MarioJrodas/osticket-prereqs)
 - Changing User and Groups
      - [Changing user and groups](https://github.com/MarioJrodas/Changing-user-groups-and-permissons)
