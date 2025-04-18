@@ -2,8 +2,6 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Initializing Active Directory</b>
-  - [Active Directory Installation](https://github.com/MarioJrodas/Initializing-Active-Directory/blob/main/README.md)
 - Wire Shark   
     - [Wire Shark Installation](https://github.com/MarioJrodas/Wire-Shark-Install)     
  - <b>osTicket (Help Desk Ticketing System)</b>
